@@ -2,4 +2,4 @@
 
 Hi everybody
 
-I am Riyan I like to codde
+I am Riyan I like to code
